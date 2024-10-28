@@ -36,4 +36,5 @@ int main(){
                 break;
         }
     }while(true);
+    return 0;
 }
